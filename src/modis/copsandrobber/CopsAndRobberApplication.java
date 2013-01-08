@@ -6,7 +6,9 @@ import android.content.Context;
 public class CopsAndRobberApplication extends Application{
 
 	private static CopsAndRobberApplication instance;
-	private static probaZaGit;
+	private static string probaZaGit2;
+	private static string probaZaGit3;
+	
 	
 	public CopsAndRobberApplication() {
 		instance = this;
